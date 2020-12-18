@@ -17,7 +17,7 @@ adj = input("give me an adjective__    ")
 verb= input("give me a verb__    ")
 verb2 = input("give me another verb__    ")
 funame = input("give me a famous name:__    ")
-changes#######
+
 madlib = f"hello, comp programming is {adj}! learning new things is excited and it makes me want to {verb}\
 stay hydrated and {verb2} and feel like {funame}"
 
