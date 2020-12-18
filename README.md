@@ -51,3 +51,7 @@ I have a clear vision of what to create - a Watson for **employer**
 I have to be careful, make sure there are locks in place to safeguard IP\
 IBM data science intro\
 Attempt to connect to teradata using python - locked my logon credentials (progress?)
+#### 12/18 IBM Data Science
+Course 1 of IBM Data Science in the books - very introductory
+Revisit 12 beginner python projects and some Pandas work
+Azure essentials to close out the day
