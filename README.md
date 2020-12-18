@@ -29,7 +29,7 @@ echo - back what comes next > destination.type\
 type - out the text\
 Ren - rename\
 .. - back\
-Bash and Power Shell introduction to commands\
+Bash and Power Shell introduction to commands
 #### 12/12 Day 2 Python projects
 Attempted 12 beginner [Python projects](https://www.youtube.com/watch?v=8ext9G7xspg&t=1564s) \
 Made it through 4 of them - got stuck at tic tac toe, its not that beginner, she jumps between declarative and non-declarative styles w/o explaining
