@@ -52,6 +52,7 @@ I have to be careful, make sure there are locks in place to safeguard IP\
 IBM data science intro\
 Attempt to connect to teradata using python - locked my logon credentials (progress?)
 #### 12/18 IBM Data Science
-Course 1 of IBM Data Science in the books - very introductory
-Revisit 12 beginner python projects and some Pandas work
-Azure essentials to close out the day
+Course 1 of IBM Data Science in the books - very introductory\
+Revisit 12 beginner python projects and some Pandas work\
+Azure essentials to close out the day\
+How do branches work? I created a branch for approval of a change to the code, the code was reviewed with a comment and adjustments made...branch merged (but not deleted)\
