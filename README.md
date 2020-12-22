@@ -43,7 +43,7 @@ The series stopped before actually putting it to use with excel and things like 
 I have several courses in my cart at a discounted rate on udemy in addition to the conclusion of -easy stuff\
 I may actually even be looking at head of and director level roles with the right play
 #### 12/16 The first node in a network is made
-Meet Christopher Stump and talked python - I now have someone to bounce serious code...maybe Rimy also\
+Meet CS and talked python - I now have someone to bounce serious code...maybe Rimy also\
 Refocus on Pandas\
 Not much code today, work intrusion
 ##### 12/17 Pandas
@@ -55,4 +55,9 @@ Attempt to connect to teradata using python - locked my logon credentials (progr
 Course 1 of IBM Data Science in the books - very introductory\
 Revisit 12 beginner python projects and some Pandas work\
 Azure essentials to close out the day\
-How do branches work? I created a branch for approval of a change to the code, the code was reviewed with a comment and adjustments made...branch merged (but not deleted)\
+How do branches work? I created a branch for approval of a change to the code, the code was reviewed with a comment and adjustments made...branch merged (but not deleted)
+#### 12/20 SaedSayad.com/data-mining-map.htm
+This is fundamental stuff...but its great to read it in those terms and how to write/speak about these concepts\
+The Azure side of cloud computing\
+
+Not much code lately :\ soon...
