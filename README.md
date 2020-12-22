@@ -58,6 +58,6 @@ Azure essentials to close out the day\
 How do branches work? I created a branch for approval of a change to the code, the code was reviewed with a comment and adjustments made...branch merged (but not deleted)
 #### 12/20 SaedSayad.com/data-mining-map.htm
 This is fundamental stuff...but its great to read it in those terms and how to write/speak about these concepts\
-The Azure side of cloud computing\
+The Azure side of cloud computing
 
 Not much code lately :\ soon...
