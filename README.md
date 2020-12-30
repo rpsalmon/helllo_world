@@ -61,3 +61,15 @@ This is fundamental stuff...but its great to read it in those terms and how to w
 The Azure side of cloud computing
 
 Not much code lately :\ soon...
+
+## BACK AT IT AGAIN
+
+#### 12/29 Cath-up and updates
+Spent a lot of time in the last week getting the base figured out - fundamentals with IBM, spent time studying those with the jobs I want looking for gaps\
+The IBM data science program is a great starting point - Data Asset eXchange and Model Asset eXchange and other open data soures from gov and int'l sources, google (litterally)\
+I should start to look at Julia and Seldon\
+Database management is as important as the code // Couch, Cassandra, MongoDB,\
+Streaming vs Batch data processing // Apache Spark/Flint, Airflow, Kubeflow, Kafka\
+The space I occupy is ELT extract and load for transformation\
+KNIME\
+I need to deploy a tool, analysis, project
