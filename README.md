@@ -73,3 +73,11 @@ Streaming vs Batch data processing // Apache Spark/Flint, Airflow, Kubeflow, Kaf
 The space I occupy is ELT extract and load for transformation\
 KNIME\
 I need to deploy a tool, analysis, project
+
+## OK FOR REAL THIS TIME
+
+### 01/06 Prep for a screen
+Refreshed and performed a Holt-winters triple-exponential forecast, manually...goal is to it using Pandas\
+Recieved the new machine - spending some time acclimating to Linux
+
+
